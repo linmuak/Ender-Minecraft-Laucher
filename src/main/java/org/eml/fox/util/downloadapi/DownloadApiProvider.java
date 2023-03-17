@@ -1,5 +1,8 @@
 package org.eml.fox.util.downloadapi;
 
+/**
+ * @author liangcha_hh
+ */
 public interface DownloadApiProvider {
     String versionManifest();
 

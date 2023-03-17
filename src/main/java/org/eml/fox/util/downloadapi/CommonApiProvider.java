@@ -1,5 +1,8 @@
 package org.eml.fox.util.downloadapi;
 
+/**
+ * @author liangcha_hh
+ */
 public class CommonApiProvider implements DownloadApiProvider{
     public String versionManifest() {
         return "https://piston-meta.mojang.com/mc/game/version_manifest.json";

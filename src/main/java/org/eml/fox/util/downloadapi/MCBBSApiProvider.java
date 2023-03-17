@@ -1,5 +1,8 @@
 package org.eml.fox.util.downloadapi;
 
+/**
+ * @author liangcha_hh
+ */
 public class MCBBSApiProvider implements DownloadApiProvider{
     public String versionManifest() {
         return "https://download.mcbbs.net/mc/game/version_manifest.json";

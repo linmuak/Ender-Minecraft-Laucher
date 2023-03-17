@@ -1,5 +1,8 @@
 package org.eml.fox.util.downloadapi;
 
+/**
+ * @author liangcha_hh
+ */
 public class BMCLApiProvider implements DownloadApiProvider{
     public String versionManifest() {
         return "https://bmclapi2.bangbang93.com/mc/game/version_manifest.json";
