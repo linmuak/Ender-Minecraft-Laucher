@@ -8,6 +8,6 @@ body:
     label: 原因
     description: "详细描述你为什么需要这项优化，这有助于开发者评估它的优先度。"
     value: |
-    请在此详细描述优化的具体建议
+     请在此详细描述优化的具体建议。
   validations:
     required: true
