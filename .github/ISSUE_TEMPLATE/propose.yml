@@ -1,3 +1,13 @@
 name: "优化建议"
 description: "对已有功能的小幅度优化或改进建议"
 labels: [· 优化, 新反馈]
+body:
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 原因
+    description: "详细描述你为什么需要这项优化，这有助于开发者评估它的优先度。"
+    value: |
+    请在此详细描述优化的具体建议
+  validations:
+    required: true
