@@ -32,7 +32,7 @@ Ender Minecraft Launcher<br>
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ### 附加条款（依据 GPLv3 协议第七条）
-1.当您分发该程序的修改版本时, 您必须以一种合理的方式修改该程序的名称或版本号, 以示其与原始版本不同<br/>
+1.当您分发该程序的修改版本时, 您<b>必须</b>以一种合理的方式修改该程序的名称或版本号, 以示其与原始版本不同<br/>
 2.您<b>不得</b>移除本程序所显示的版权声明
 
 ## 免责声明
