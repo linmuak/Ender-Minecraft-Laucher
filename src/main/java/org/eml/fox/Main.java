@@ -1,6 +1,7 @@
 package org.eml.fox;
 
-import org.eml.fox.JUI.CreateJFrame;
+import org.eml.fox.JUI.LoginFrame;
+import org.eml.fox.JUI.MainFrame;
 
 /**
  * @author liangcha_hh
@@ -9,6 +10,8 @@ import org.eml.fox.JUI.CreateJFrame;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello EnderMinecraftLauncher!");
-        CreateJFrame.main(850,604);
+        new LoginFrame();
+        new MainFrame();
+
     }
 }
