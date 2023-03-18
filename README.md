@@ -2,9 +2,11 @@
 Ender Minecraft Launcher<br>
 —— 一个 Minecraft Java 版启动器<br>
 
+### [English README](README-en.md)
+
 [![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v0.0.1_beta-brightgreen)](https://github.com/liangcha385/EnderMinecraftLauncher/releases)
 ![发布日期](https://img.shields.io/badge/%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F-2023--02--26-brightgreen)
-![软件需求](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82-Java%208-blue)
+![软件需求](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82-Java%2011-blue)
 
 ## 软件协议
 该软件在 [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) 下分发，附带附加条款。
