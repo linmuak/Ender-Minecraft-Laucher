@@ -1,6 +1,6 @@
 # Ender Minecraft Launcher
 Ender Minecraft Launcher<br>
-—— A Minecraft Java # Ender Minecraft Launcher
+—— A Minecraft Java Launcher
 
 ### [中文README](README.md)
 
