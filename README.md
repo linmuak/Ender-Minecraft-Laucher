@@ -9,7 +9,7 @@ Ender Minecraft Launcher<br>
 ![软件需求](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82-Java%2011-blue)
 
 ## 简介
-Ender Minecraft Launcher 是一款新型概念性启动器，我们将极力打造高度个性化及创新功能
+Ender Minecraft Launcher 是一款新型概念性启动器，我们将极力打造高度个性化及创新内容
 
 ## 软件协议
 该软件在 [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) 下分发，附带附加条款。
