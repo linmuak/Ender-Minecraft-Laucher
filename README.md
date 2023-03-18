@@ -35,7 +35,7 @@ Ender Minecraft Launcher<br>
 - 用户因使用Ender Minecraft Launcher而产生的一切后果由用户自己承担，任何涉及Ender Minecraft Launcher的法律纠纷与冲突与开发者无关，Ender Minecraft Launcher与开发者将不承担任何责任。
 
 ## 关于作者
-- 哔哩哔哩：<br/>
-  [@凉茶是帅哥](https://space.bilibili.com/676566905) <br/>
+- 凉茶是帅哥：<br/>
+  [@biliblil](https://space.bilibili.com/676566905) <br/>
 
 ## 如果您发现任何BUG，或者有新的想法，欢迎在哔哩哔哩私信留言或提出 Issue
