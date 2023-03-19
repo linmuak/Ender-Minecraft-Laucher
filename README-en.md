@@ -44,5 +44,6 @@ The software is distributed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.
   [@biliblil](https://space.bilibili.com/676566905) <br/>
 - Linmuawa：<br/>
   [@biliblil](https://space.bilibili.com/1757041761) <br/>
-
+- mc小兴:<br/>
+  [@bilibili](https://space.bilibili.com/2024358517)
 #### If you find any bugs, or make suggestions, please send them to the developer email or bilibili private message

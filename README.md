@@ -47,5 +47,7 @@ Ender Minecraft Launcher 是一款新型概念性启动器，我们将极力打�
   [@biliblil](https://space.bilibili.com/676566905) <br/>
 - 林慕awa：<br/>
   [@biliblil](https://space.bilibili.com/1757041761) <br/>
+- mc小兴:<br/>
+  [@bilibili](https://space.bilibili.com/2024358517)
 
 #### 如果您发现任何BUG，或提出建议，请发送至开发人员邮箱或Bilibili私信

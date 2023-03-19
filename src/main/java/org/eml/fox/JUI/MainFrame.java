@@ -17,6 +17,6 @@ public class MainFrame extends JFrame {
         //设置界面居中
         this.setLocationRelativeTo(null);
         //设置界面关闭运行
-        this.setDefaultCloseOperation(3);
+        this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     }
 }

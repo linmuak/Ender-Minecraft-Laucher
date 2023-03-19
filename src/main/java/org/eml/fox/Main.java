@@ -12,6 +12,5 @@ public class Main {
         System.out.println("Hello EnderMinecraftLauncher!");
         new LoginFrame();
         new MainFrame();
-
     }
 }
