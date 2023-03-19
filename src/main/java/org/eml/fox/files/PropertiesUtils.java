@@ -24,7 +24,7 @@ public class PropertiesUtils {
      * @param target
      * @return
      */
-    public static void copy(@NotNull File source ,File target) {
+    public static void copy(@NotNull File source , File target) {
         if (source.isFile()){
             copyFile(source , target);
         }else {
