@@ -6,7 +6,7 @@ Ender Minecraft Launcher<br>
 
 [![Latest Version](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v0.0.0.1_beta-brightgreen)](https://github.com/liangcha385/EnderMinecraftLauncher/releases)
 ![Release Date](https://img.shields.io/badge/%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F-2023--02--26-brightgreen)
-![Software Requires](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82-Java%2011-blue)
+![Software Requires](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82-Java%2017-blue)
 
 ## License
 The software is distributed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) with additional terms.
