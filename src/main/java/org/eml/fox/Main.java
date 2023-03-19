@@ -2,12 +2,16 @@ package org.eml.fox;
 
 import org.eml.fox.JUI.LoginFrame;
 import org.eml.fox.JUI.MainFrame;
+import org.eml.fox.files.PropertiesUtils;
+
+import java.io.File;
 
 /**
  * @author liangcha_hh
  * @author xiaoxing
- * @since 1.0
+ * @author 北瓜sakura
  *
+ *<p>
  * Ender Minecraft Launcher
  *     Copyright (C) 2023
  *
@@ -26,12 +30,18 @@ import org.eml.fox.JUI.MainFrame;
  *     GNU General Public License for more details.
  *
  *     You should have received a copy of the GNU General Public License
- *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *     along with this program.  If not, see <<a href="https://www.gnu.org/licenses/">...</a>>.
+ *     </p>
  */
 public class Main {
+    public static String USER_DIR = PropertiesUtils.getDir();
     public static void main(String[] args) {
         System.out.println("Hello EnderMinecraftLauncher!");
-        //new LoginFrame();
+        new LoginFrame();
         new MainFrame();
+        File user_properties_source = new File("src/main/resources/user.properties");
+        File user_properties_target = new File(USER_DIR);
+        PropertiesUtils.copy(user_properties_source,user_properties_target);
+        PropertiesUtils.writeToProperties("USER_DIR",USER_DIR);
     }
 }
