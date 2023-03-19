@@ -17,12 +17,14 @@ public class MainFrame extends JFrame {
         //选项
         JMenu authormenu = new JMenu("关于");
         JMenu accountmenu = new JMenu("账号");
+        JMenu onlinemenu = new JMenu("在线");
 
         JMenuItem loginItem = new JMenuItem("登陆");
         //添加对应选项
         accountmenu.add(loginItem);
         //添加条幅选项
         jMenuBar.add(accountmenu);
+        jMenuBar.add(onlinemenu);
         jMenuBar.add(authormenu);
         this.setJMenuBar(jMenuBar);
         jMenuBar.setVisible(true);
@@ -30,16 +32,17 @@ public class MainFrame extends JFrame {
     }
 
     private void mainFrameSet() {
-        //设置界面颜色
+        //设置窗口颜色
         this.setBackground(Color.white);
-        //设置界面大小
+        //设置窗口大小
         this.setSize(864,530);
+        //设置窗口名称，标题
         this.setTitle("末影我的世界启动器-1.0-SNAPSHOT");
-        //设置界面居中
+        //设置窗口居中
         this.setLocationRelativeTo(null);
-        //设置界面关闭运行
+        //设置窗口关闭运行
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        //设置界面是否可见
+        //设置窗口是否可见
         this.setVisible(true);
     }
 }
