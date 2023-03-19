@@ -26,6 +26,7 @@ public class MainFrame extends JFrame {
         jMenuBar.add(authormenu);
         this.setJMenuBar(jMenuBar);
         jMenuBar.setVisible(true);
+
     }
 
     private void mainFrameSet() {
