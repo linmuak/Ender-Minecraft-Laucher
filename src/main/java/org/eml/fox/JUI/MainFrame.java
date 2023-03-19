@@ -1,6 +1,6 @@
 package org.eml.fox.JUI;
 
-import org.eml.fox.Main;
+//import org.eml.fox.Main;
 
 import javax.swing.*;
 import java.awt.*;
