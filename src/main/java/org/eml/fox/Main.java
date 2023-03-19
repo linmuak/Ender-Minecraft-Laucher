@@ -6,6 +6,7 @@ import org.eml.fox.JUI.MainFrame;
 /**
  * @author liangcha_hh
  * @author xiaoxing
+ * @since 1.0
  *
  * Ender Minecraft Launcher
  *     Copyright (C) 2023
@@ -30,7 +31,7 @@ import org.eml.fox.JUI.MainFrame;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello EnderMinecraftLauncher!");
-        new LoginFrame();
+        //new LoginFrame();
         new MainFrame();
     }
 }
