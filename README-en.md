@@ -7,6 +7,7 @@ Ender Minecraft Launcher<br>
 [![Latest Version](https://img.shields.io/badge/Version-v0.0.0.2%20beta-brightgreen)](https://github.com/liangcha385/EnderMinecraftLauncher/releases)
 ![Release Date](https://img.shields.io/badge/Release%20Date-2023--02--26-brightgreen)
 [![Software Requires](https://img.shields.io/badge/Software%20Requires-Java%2017-blue)](https://www.oracle.com/cn/java/technologies/downloads/#java17)
+![Development team](https://img.shields.io/badge/Development%20team-Grass%20Block-yellow)
 ## Introduction
 Ender Minecraft Launcher is a new conceptual launcher where we strive to create highly personalized and innovative content.
 
@@ -38,7 +39,7 @@ The software is distributed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.
 2.You must <b>not</b> remove the copyright declaration displayed in the software.
 
 ## Disclaimer
-- The copyright of Minecraft belongs to [Mojang Studios](https://account.mojang.com/) (C) 2023 and [Microsoft](https://www.microsoft.com/) (C) 2023. The software producer is not responsible for any copyright issues arising from the use of Ender Minecraft Launcher. Please [support the official game](https://www.minecraft.net).
+- The copyright of Minecraft belongs to [Mojang Studios](https://account.mojang.com/) © 2023 and [Microsoft](https://www.microsoft.com/) © 2023. The software producer is not responsible for any copyright issues arising from the use of Ender Minecraft Launcher. Please [support the official game](https://www.minecraft.net).
 - All consequences arising from the use of Ender Minecraft Launcher by the user shall be borne by the user himself. Any legal disputes and conflicts involving Ender Minecraft Launcher have nothing to do with the developer, and Ender Minecraft Launcher and the developer will not bear any responsibility.
 
 ## Update

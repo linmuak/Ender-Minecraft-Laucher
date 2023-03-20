@@ -7,6 +7,7 @@ Ender Minecraft Launcher<br>
 [![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v0.0.0.2_beta-brightgreen)](https://github.com/liangcha385/EnderMinecraftLauncher/releases)
 ![发布日期](https://img.shields.io/badge/%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F-2023--02--26-brightgreen)
 [![软件需求](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82-Java%2017-blue)](https://www.oracle.com/cn/java/technologies/downloads/#java17)
+![开发团队](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F-Grass%20Block-yellow)
 
 ## 简介
 Ender Minecraft Launcher 是一款新型概念性启动器，我们将极力打造高度个性化及创新内容
@@ -39,8 +40,8 @@ Ender Minecraft Launcher 是一款新型概念性启动器，我们将极力打�
 2.您<b>不得</b>移除本程序所显示的版权声明
 
 ## 免责声明
-- Minecraft 版权归 [Mojang Studios](https://account.mojang.com/) (C) 2023 与 [Microsoft](https://www.microsoft.com/) (C) 2023 所有，使用Ender Minecraft Launcher所产生的所有版权问题，软件制作方概不负责，请[支持正版](https://www.minecraft.net/zh-hans)
-- 用户因使用Ender Minecraft Launcher而产生的一切后果由用户自己承担，任何涉及Ender Minecraft Launcher的法律纠纷与冲突与开发者无关，Ender Minecraft Launcher与开发者将不承担任何责任
+- Minecraft 版权归 [Mojang Studios  © 2023](https://account.mojang.com/) 与 [Microsoft  © 2023](https://www.microsoft.com/) 所有，使用Ender Minecraft Launcher 所产生的所有版权问题，软件制作方概不负责，请[支持正版](https://www.minecraft.net/zh-hans)
+- 用户因使用Ender Minecraft Launcher 而产生的一切后果由用户自己承担，任何涉及Ender Minecraft Launcher 的法律纠纷与冲突与开发者无关，Ender Minecraft Launcher 与开发者将不承担任何责任
 
 ## 更新
 <!--格式：日期-更新内容
