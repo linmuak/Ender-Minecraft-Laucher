@@ -16,7 +16,7 @@ import java.io.File;
  *     Copyright (C) 2023
  *
  *     liangcha_hh <2323998240@qq.com>
- *     linmu13ak <linmu013@163.com|3590327847>
+ *     linmu13ak <linmu013@163.com|3590327847@qq.com>
  *     xiaoxing <645710596@qq.com>
  *
  *     This program is free software: you can redistribute it and/or modify

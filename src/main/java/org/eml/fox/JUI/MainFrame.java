@@ -12,19 +12,27 @@ public class MainFrame extends JFrame {
     }
 
     private void menuBarSet() {
-        //条幅
+        //新增条幅
         JMenuBar jMenuBar = new JMenuBar();
-        //选项
+        //增加选项组件
         JMenu authormenu = new JMenu("关于");
         JMenu accountmenu = new JMenu("账号");
         JMenu onlinemenu = new JMenu("在线");
-
-        JMenuItem loginItem = new JMenuItem("登陆");
+        JMenu setmenu = new JMenu("设置");
+        //嵌入选项组件
+        JMenuItem loginItem = new JMenuItem("登录");
+        JMenuItem friendsItem = new JMenuItem("好友");
+        JMenuItem OnlineItem = new JMenuItem("联机");
+        JMenuItem DevelopmentItem = new JMenuItem("开发团队");
         //添加对应选项
         accountmenu.add(loginItem);
+        onlinemenu.add(friendsItem);
+        onlinemenu.add(OnlineItem);
+        authormenu.add(DevelopmentItem);
         //添加条幅选项
         jMenuBar.add(accountmenu);
         jMenuBar.add(onlinemenu);
+        jMenuBar.add(setmenu);
         jMenuBar.add(authormenu);
         this.setJMenuBar(jMenuBar);
         jMenuBar.setVisible(true);
