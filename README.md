@@ -4,10 +4,10 @@ Ender Minecraft Launcher<br>
 
 ### [English README](README-en.md)
 
-[![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v0.0.1.5_beta-brightgreen)](https://github.com/liangcha385/EnderMinecraftLauncher/releases)
-![发布日期](https://img.shields.io/badge/%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F-2023--02--26-brightgreen)
+[![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v0.0.1.5_beta-brightgreen)](https://645710596.github.io/EMCL/)
+[![发布日期](https://img.shields.io/badge/%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F-2023--02--26-brightgreen)](https://645710596.github.io/EMCL/)
 [![软件需求](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82-Java%2017-blue)](https://www.oracle.com/cn/java/technologies/downloads/#java17)
-![开发团队](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F-Grass%20Block-yellow)
+[![开发团队](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F-Grass%20Block-yellow)](https://645710596.github.io/EMCL/)
 ![语言](https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87%26%E8%8B%B1%E6%96%87-blueviolet)
 ## 简介
 Ender Minecraft Launcher 是一款新型概念性启动器，我们将极力打造高度个性化及创新内容
