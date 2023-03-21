@@ -4,10 +4,11 @@ Ender Minecraft Launcher<br>
 
 ### [中文README](README.md)
 
-[![Latest Version](https://img.shields.io/badge/Version-v0.0.0.2%20beta-brightgreen)](https://github.com/liangcha385/EnderMinecraftLauncher/releases)
+[![Latest Version](https://img.shields.io/badge/Version-v0.0.1.5%20beta-brightgreen)](https://github.com/liangcha385/EnderMinecraftLauncher/releases)
 ![Release Date](https://img.shields.io/badge/Release%20Date-2023--02--26-brightgreen)
 [![Software Requires](https://img.shields.io/badge/Software%20Requires-Java%2017-blue)](https://www.oracle.com/cn/java/technologies/downloads/#java17)
 ![Development team](https://img.shields.io/badge/Development%20team-Grass%20Block-yellow)
+![language](https://img.shields.io/badge/language-Chinese%26English-blueviolet)
 ## Introduction
 Ender Minecraft Launcher is a new conceptual launcher where we strive to create highly personalized and innovative content.
 
@@ -50,7 +51,7 @@ NULL
 ## About Author
 - 凉茶是帅哥：<br/>
   [@bilibili](https://space.bilibili.com/676566905) <br/>
-- Linmuawa：<br/>
+- 林慕awa：<br/>
   [@bilibili](https://space.bilibili.com/1757041761) <br/>
 - mc小兴:<br/>
   [@bilibili](https://space.bilibili.com/2024358517) <br/>
