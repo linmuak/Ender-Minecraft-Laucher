@@ -36,7 +36,6 @@ public class MainFrame extends JFrame {
         jMenuBar.add(authormenu);
         this.setJMenuBar(jMenuBar);
         jMenuBar.setVisible(true);
-
     }
 
     private void mainFrameSet() {
@@ -48,9 +47,12 @@ public class MainFrame extends JFrame {
         this.setTitle("末影我的世界启动器-1.0-SNAPSHOT");
         //设置窗口居中
         this.setLocationRelativeTo(null);
-        //设置窗口图标（测试）
-        ImageIcon icon = new ImageIcon("src/main/resources/icon.ico");
+        /*
+        设置窗口图标（测试）
+        Image icon = new Image("src/main/resources/icon.ico");
         this.setIconImage(icon.getImage());
+
+         */
         //设置窗口关闭运行
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         //设置窗口是否可见

@@ -37,7 +37,7 @@ public class Main {
     public static String USER_DIR = PropertiesUtils.getDir();
     public static void main(String[] args) {
         System.out.println("Hello EnderMinecraftLauncher!");
-        new LoginFrame();
+        //new LoginFrame();
         new MainFrame();
         File user_properties_source = new File("src/main/resources/user.properties");
         File user_properties_target = new File(USER_DIR);
