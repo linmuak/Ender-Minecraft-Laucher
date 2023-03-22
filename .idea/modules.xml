@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EnderMinecraftLauncher.iml" filepath="$PROJECT_DIR$/.idea/modules/EnderMinecraftLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EnderMinecraftLauncher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EnderMinecraftLauncher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EnderMinecraftLauncher.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EnderMinecraftLauncher.test.iml" />
+    </modules>
+  </component>
+</project>

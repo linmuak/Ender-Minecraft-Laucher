@@ -2,7 +2,7 @@
 Ender Minecraft Launcher<br>
 —— A Minecraft Java Launcher
 
-### [中文README](README.md)
+### [简体中文README](README.md) [繁体中文README](README-ch-Traditional.md)
 
 [![Latest Version](https://img.shields.io/badge/Version-v0.0.1.5%20beta-brightgreen)](https://645710596.github.io/EMCL/)
 [![Release Date](https://img.shields.io/badge/Release%20Date-2023--02--26-brightgreen)](https://645710596.github.io/EMCL/)
