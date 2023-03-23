@@ -16,6 +16,6 @@
     <orderEntry type="library" scope="PROVIDED" name="Gradle: log4j:log4j:1.2.12" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.commons:commons-lang3:3.12.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:23.0.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.commons:commons-configconfiguration2:2.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.teamdev.jxbrowser:jxbrowser:7.12.2" level="project" />
   </component>
 </module>

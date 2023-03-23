@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.teamdev.jxbrowser:jxbrowser:7.12.2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../gradle-lib/caches/modules-2/files-2.1/com.teamdev.jxbrowser/jxbrowser/7.12.2/766dee28bd670e4b5032b9375f814ce71dc42805/jxbrowser-7.12.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.teamdev.jxbrowser/jxbrowser/7.12.2/766dee28bd670e4b5032b9375f814ce71dc42805/jxbrowser-7.12.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../gradle-lib/caches/modules-2/files-2.1/com.teamdev.jxbrowser/jxbrowser/7.12.2/159030172ac0c60490206222c29bb7a7e8e5483a/jxbrowser-7.12.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.teamdev.jxbrowser/jxbrowser/7.12.2/159030172ac0c60490206222c29bb7a7e8e5483a/jxbrowser-7.12.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
