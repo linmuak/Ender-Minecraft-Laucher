@@ -53,12 +53,13 @@ public class MainFrame extends JFrame {
 //        this.setIconImage(IniPictures.geticon());
         //设置窗口关闭运行
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        this.setLayout(null);
         //主界面按钮
         JButton jButton = new JButton("开始游戏");
         /*
          * 这也调
          */
-        jButton.setBounds(10,10,10,10);
+        jButton.setBounds(680,400,150,50);
         jButton.setVisible(true);
         this.getContentPane().add(jButton);
         //设置窗口是否可见
