@@ -1,7 +1,5 @@
 package org.eml.fox.JUI;
 
-
-
 import javax.swing.*;
 
 public class LoginFrame extends JFrame {

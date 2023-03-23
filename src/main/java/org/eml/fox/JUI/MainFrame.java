@@ -4,8 +4,6 @@ package org.eml.fox.JUI;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class MainFrame extends JFrame {
     public MainFrame(){
@@ -37,9 +35,7 @@ public class MainFrame extends JFrame {
         jMenuBar.add(setmenu);
         jMenuBar.add(authormenu);
         this.setJMenuBar(jMenuBar);
-        loginItem.addActionListener(e-> {
-                new LoginFrame();
-        });
+        loginItem.addActionListener(e->new LoginFrame());
         jMenuBar.setVisible(true);
     }
 
@@ -57,6 +53,14 @@ public class MainFrame extends JFrame {
 //        this.setIconImage(IniPictures.geticon());
         //设置窗口关闭运行
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        //主界面按钮
+        JButton jButton = new JButton("开始游戏");
+        /*
+         * 这也调
+         */
+        jButton.setBounds(10,10,10,10);
+        jButton.setVisible(true);
+        this.getContentPane().add(jButton);
         //设置窗口是否可见
         this.setVisible(true);
     }
