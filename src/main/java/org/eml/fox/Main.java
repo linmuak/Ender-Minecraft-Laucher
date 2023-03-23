@@ -1,6 +1,5 @@
 package org.eml.fox;
 
-import org.eml.fox.JUI.LoginFrame;
 import org.eml.fox.JUI.MainFrame;
 import org.eml.fox.files.PropertiesUtils;
 
