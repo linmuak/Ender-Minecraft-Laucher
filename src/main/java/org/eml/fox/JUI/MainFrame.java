@@ -4,6 +4,8 @@ package org.eml.fox.JUI;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class MainFrame extends JFrame {
     public MainFrame(){
@@ -35,6 +37,9 @@ public class MainFrame extends JFrame {
         jMenuBar.add(setmenu);
         jMenuBar.add(authormenu);
         this.setJMenuBar(jMenuBar);
+        loginItem.addActionListener(e-> {
+                new LoginFrame();
+        });
         jMenuBar.setVisible(true);
     }
 
