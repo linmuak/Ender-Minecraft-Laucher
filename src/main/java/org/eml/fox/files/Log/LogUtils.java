@@ -1,6 +1,9 @@
 package org.eml.fox.files.Log;
 
-import java.io.InputStream;
+import org.eml.fox.Main;
+
+import java.io.*;
+import java.util.Properties;
 
 /**
  * @author 北瓜sakura
@@ -9,6 +12,28 @@ import java.io.InputStream;
  */
 public class LogUtils {
     public static void updateProperties(String key , String value){
-        InputStream is = LogUtils.class.getClassLoader().getResourceAsStream("src/log4j.properties");
+        InputStream is = LogUtils.class.getClassLoader().getResourceAsStream("log4j.properties");
+        Properties properties = new Properties();
+        try {
+            properties.load(is);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        
+    }
+
+    public static void createDir() {
+        String dir = Main.USER_DIR;
+        File file = new File(dir + "\\EML");
+        InputStream inputStream = null;
+        if (!file.exists()) {
+            file.mkdirs();
+        }
+        try {
+            inputStream = new FileInputStream(dir + "\\user.properties");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 }

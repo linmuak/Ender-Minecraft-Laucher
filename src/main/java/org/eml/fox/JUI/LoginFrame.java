@@ -13,7 +13,6 @@ public class LoginFrame extends JFrame {
         //按钮
         JButton jbutton = new JButton("登录微软账户");
         JButton jbutton2 = new JButton("登录Mojang账户");
-        //设置位置和宽高
         jbutton.setBounds(175,125,150,25);
         jbutton2.setBounds(175,175,150,25);
         jbutton.addActionListener(e -> {

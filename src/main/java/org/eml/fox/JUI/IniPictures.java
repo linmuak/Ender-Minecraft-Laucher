@@ -4,28 +4,28 @@ package org.eml.fox.JUI;
 import java.awt.*;
 
 public class IniPictures{
-    public static Image getstart(){
+    public static Image getStart(){
         return start;
     }
-    public static Image getdownload(){
+    public static Image getDownload(){
         return download;
     }
-    public static Image getmsLogin(){
+    public static Image getMSLogin(){
         return msLogin;
     }
 //    public static Image geticon(){
 //        return icon;
 //    }
-    static Image start = Toolkit.getDefaultToolkit().getImage("src/main/resources/pictures/开始游戏按钮.jpg");
-    static Image download = Toolkit.getDefaultToolkit().getImage("src/main/resources/pictures/下载按钮.jpg");
-    static Image msLogin = Toolkit.getDefaultToolkit().getImage("src/main/resources/pictures/微软登陆按钮.jpg");
+    static Image start = Toolkit.getDefaultToolkit().getImage("src/main/resources/pictures/Start.jpg");
+    static Image download = Toolkit.getDefaultToolkit().getImage("src/main/resources/pictures/Download.jpg");
+    static Image msLogin = Toolkit.getDefaultToolkit().getImage("src/main/resources/pictures/Login_Microsoft.jpg");
 //    static Image icon = Toolkit.getDefaultToolkit().getImage("src/main/resources/pictures/icon.jpg");
-//    File start = new File("src/main/resources/pictures/开始游戏按钮.jpg");
-//    Image image = ImageIO.read(new FileInputStream("src/main/resources/pictures/开始游戏按钮.jpg"));
+//    File start = new File("src/main/resources/pictures/Start.jpg");
+//    Image image = ImageIO.read(new FileInputStream("src/main/resources/pictures/Start.jpg"));
 //    image = ImageIO.read();
-//    File download = new File("src/main/resources/pictures/下载按钮.jpg");
-//    File MSLogin = new File("src/main/resources/pictures/微软登陆按钮.jpg");
+//    File download = new File("src/main/resources/pictures/Download.jpg");
+//    File MSLogin = new File("src/main/resources/pictures/Login_Microsoft.jpg");
 //
-//    Image image = new ImageIcon("src/main/resources/pictures/icon.ico").getImage();
+//    Image imag的e = new ImageIcon("src/main/resources/pictures/icon.ico").getImage();
 
 }
