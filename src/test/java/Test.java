@@ -20,10 +20,6 @@ public class Test {
         PropertiesUtils.copy(source,target);
     }
 
-    @org.junit.jupiter.api.Test
-    public void testLoadProperties(){
-        LogUtils.updateProperties("1","1");
-    }
 
     @org.junit.jupiter.api.Test
     public void testLog4j(){
@@ -33,6 +29,17 @@ public class Test {
 
     @org.junit.jupiter.api.Test
     public void testMKDIR(){
-        LogUtils.createDir();
+        LogUtils.createDataDir();
+        LogUtils.createLogsDir();
+    }
+
+    @org.junit.jupiter.api.Test
+    public void testUpdate(){
+        PropertiesUtils.updateProperties("user.properties","store_dir","6");
+    }
+
+    @org.junit.jupiter.api.Test
+    public void testLog4jProperties(){
+        LogUtils.init();
     }
 }

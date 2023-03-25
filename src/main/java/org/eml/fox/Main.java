@@ -1,6 +1,7 @@
 package org.eml.fox;
 
 import org.eml.fox.JUI.MainFrame;
+import org.eml.fox.files.Log.Logger;
 import org.eml.fox.files.PropertiesUtils;
 
 import java.io.File;
@@ -34,6 +35,7 @@ import java.io.File;
  */
 public class Main {
     public static String USER_DIR = PropertiesUtils.getDir();
+    public static String USER_STORE = USER_DIR+"\\EML";
     public static void main(String[] args) {
         System.out.println("Hello EnderMinecraftLauncher!");
         //new LoginFrame();
@@ -41,6 +43,7 @@ public class Main {
         File user_properties_source = new File("src/main/resources/user.properties");
         File user_properties_target = new File(USER_DIR);
         PropertiesUtils.copy(user_properties_source,user_properties_target);
-        PropertiesUtils.writeToProperties("USER_DIR",USER_DIR);
+        PropertiesUtils.updateProperties("user.properties","USER_DIR",USER_DIR);
+        Logger.logger.error(1);
     }
 }
